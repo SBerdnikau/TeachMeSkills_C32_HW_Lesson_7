@@ -1,20 +1,21 @@
-package com.teachmeskills.lessons7.task1.job_service;
+package com.teachmeskills.lessons7.task1.job_position;
 
-import com.teachmeskills.lessons7.task1.job_service.impl.Accountant;
-import com.teachmeskills.lessons7.task1.job_service.impl.Director;
-import com.teachmeskills.lessons7.task1.job_service.impl.Worker;
+import com.teachmeskills.lessons7.task1.job_position.impl.Accountant;
+import com.teachmeskills.lessons7.task1.job_position.impl.Director;
+import com.teachmeskills.lessons7.task1.job_position.impl.Worker;
 
 import java.util.Scanner;
 
 public class MenuAction {
-    Accountant accountant;
-    Director director;
-    Worker worker;
+  Director director;
+  Accountant accountant;
+  Worker worker;
 
     public void selectOperation(){
         accountant = new Accountant();
         director = new Director();
         worker = new Worker();
+
         String userAction;
 
         Scanner scanner = new Scanner(System.in);

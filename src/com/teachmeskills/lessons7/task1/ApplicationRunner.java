@@ -1,6 +1,6 @@
 package com.teachmeskills.lessons7.task1;
 
-import com.teachmeskills.lessons7.task1.job_service.MenuAction;
+import com.teachmeskills.lessons7.task1.job_position.MenuAction;
 
 /**
  * Создать классы "Директор", "Рабочий", "Бухгалтер".
