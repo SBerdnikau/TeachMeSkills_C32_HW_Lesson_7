@@ -1,9 +1,9 @@
 package com.teachmeskills.lessons7.task2;
 
-import com.teachmeskills.lessons7.task2.figure.Circle;
+import com.teachmeskills.lessons7.task2.figure.circle.Circle;
 import com.teachmeskills.lessons7.task2.figure.Figure;
-import com.teachmeskills.lessons7.task2.figure.Rectangle;
-import com.teachmeskills.lessons7.task2.figure.Triangle;
+import com.teachmeskills.lessons7.task2.figure.rectangle.Rectangle;
+import com.teachmeskills.lessons7.task2.figure.triangle.Triangle;
 import com.teachmeskills.lessons7.task2.figure_service.FigureOption;
 
 /**

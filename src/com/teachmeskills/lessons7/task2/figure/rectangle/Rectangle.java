@@ -1,6 +1,8 @@
-package com.teachmeskills.lessons7.task2.figure;
+package com.teachmeskills.lessons7.task2.figure.rectangle;
 
-public class Rectangle extends Figure{
+import com.teachmeskills.lessons7.task2.figure.Figure;
+
+public class Rectangle extends Figure {
 
     double a;
     double b;

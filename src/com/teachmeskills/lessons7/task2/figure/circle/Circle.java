@@ -1,6 +1,8 @@
-package com.teachmeskills.lessons7.task2.figure;
+package com.teachmeskills.lessons7.task2.figure.circle;
 
-public class Circle extends Figure{
+import com.teachmeskills.lessons7.task2.figure.Figure;
+
+public class Circle extends Figure {
 
     double radius;
 
