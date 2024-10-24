@@ -1,6 +1,6 @@
-#Here, the following tasks are implemented:
+# Here, the following tasks are implemented:
 
-*Task 1:*
+* Task 1: *
 
 Create classes "Director", "Worker", "Accountant".
 
@@ -12,7 +12,7 @@ Create a runner class with a main method to run the program.
 
 Request the job code from the console and display the job title on the screen.
 
-*Task 2:*
+* Task 2: *
 
 Write a hierarchy of classes Shape, Triangle, Rectangle, Circle.
 
